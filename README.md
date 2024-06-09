@@ -9,6 +9,7 @@ Welcome to the JavaScript Projects Repository! This repository contains a collec
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
+- [Deploy site used](#deplo-site-used)
 - [Project List](#project-list)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -37,6 +38,12 @@ To get started with the projects in this repository, follow these steps:
    ```bash
    npm start
    ```
+
+## Deploy site used
+Site used to deploy the projects : Netlify
+```bash
+https://www.netlify.com
+```
 
 ## Project List
 
