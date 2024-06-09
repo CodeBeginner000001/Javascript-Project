@@ -1,6 +1,7 @@
 # JavaScript Projects Repository
-
+<p align="center">
 <img width="640px" src="https://github.com/CodeBeginner000001/Javascript-Project/assets/92913917/b76ffebb-e271-4852-a019-c1d2c23d5e30">
+</p>
 
 Welcome to the JavaScript Projects Repository! This repository contains a collection of JavaScript projects ranging from beginner to advanced levels. Each project is designed to help you improve your JavaScript skills through practical application and coding practice.
 
