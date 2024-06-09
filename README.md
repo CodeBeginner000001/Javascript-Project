@@ -88,7 +88,6 @@ Please ensure your code adheres to the project's coding standards and includes a
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: ashu2100ag@gmail.com
-- **GitHub Issues**: [Create an Issue](https://github.com/CodeBeginner000001/Javascript-Projects/issues)
 
 We hope you find this repository useful and look forward to your contributions!
 
