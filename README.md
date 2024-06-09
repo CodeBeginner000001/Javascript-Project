@@ -45,22 +45,22 @@ Below is a list of projects currently available in this repository:
 1. **Project 1: Text Editor**
    - Description: A simple text editor to edit text.
    - Level: Beginner
-   - [View Project](./to-do-list-app)
+   - [View Project](https://jsproject-text-editor.netlify.app/)
 
 2. **Project 2: Random Color Generator**
    - Description: Generates random color when generate button is pressed having a box for what color is generated and a RGB value of the color ranging from 0-255.
    - Level: Beginner
-   - [View Project](./weather-app)
+   - [View Project](https://jsproject-random-color-generator.netlify.app/)
 
 3. **Project 3: Guessing Number**
    - Description: Guess a number after giving a max number till you want to guess and if guessed right you win or can try again and if want to quit, just write quite.
    - Level: Beginner
-   - [View Project](./calculator)
+   - [View Project](https://jsproject-guessing-number.netlify.app/)
 
 4. **Project 4: Favorite Movie Guess**
    - Description: Guess my favorite movies and no cheating from source code , if guessed right you win or can try again till you are tried and write quit to quite the game.
    - Level: Beginner
-   - [View Project](./real-time-chat-app)
+   - [View Project](https://jsproject-guess-favorite-movie.netlify.app/)
 
 ## Contributing
 
