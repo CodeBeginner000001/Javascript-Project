@@ -9,7 +9,7 @@ Welcome to the JavaScript Projects Repository! This repository contains a collec
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Deploy site used](#deplo-site-used)
+- [Deploy site used](#deploy-site-used)
 - [Project List](#project-list)
 - [Contributing](#contributing)
 - [Contact](#contact)
